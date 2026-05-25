@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - Kenny Bentley, Musician</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="site-wrap">
+    <header>
+  <h1 class="site-title">Kenny Bentley, Musician</h1>
+  <p class="tagline">Freelance Tuba, Sousaphone, Electric Bass</p>
+  <nav aria-label="Main navigation">
+    <a href="index.html" aria-current="page">Home</a>
+    <a href="bio.html" >Bio</a>
+    <a href="schedule.html" >Schedule</a>
+    <a href="gallery.html" >Gallery</a>
+  </nav>
+</header>
+    <main>
+      <h2>Kenny Bentley, Musician</h2>
+      <p>
+        I'm excited you found me! My name is Kenny Bentley and I am a freelance musician in New York City.
+        In addition to freelance work, I play regularly with the Radio City Music Hall Orchestra,
+        Sugartone Brass Band, Slavic Soul Party, Red Baraat, Brass Against, and Hazmat Modine.
+      </p>
+      <p>
+        Please click on my Bio page to find out more about me. In addition to my bio you may use this site
+        to keep track of my performances and contact me about future performances. Also, feel free to browse
+        my gallery to see pictures and video from my latest shows.
+      </p>
+      <p>Thank you for visiting and I hope you enjoy kennethbentley.com!</p>
+
+      <img
+        src="images/Bentley2-2.jpg"
+        alt="Kenneth Bentley"
+        class="hero-image"
+      />
+
+      <h2>Upcoming Shows</h2>
+      <div id="events" class="event-list"></div>
+      <p><a href="schedule.html">View full schedule</a></p>
+
+    </main>
+    <footer>
+      <h2>Contact Me!</h2>
+      <p>Email: <a href="mailto:kenny@kennethbentley.com">kenny@kennethbentley.com</a></p>
+      <p>Copyright © 2026 Kenny Bentley, Musician</p>
+    </footer>
+  </div>
+<script src="js/events.js"></script>
+<script>loadEvents({ limit: 5 });</script>
+</body>
+</html>

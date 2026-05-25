@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2026-06-23",
+    "time": "9:00 PM",
+    "artist": "Slavic Soul Party!",
+    "city": "Brooklyn, NY",
+    "venue": "Barbès",
+    "country": "United States",
+    "details": "Admission: $20. Age restrictions: No Minors. Address: 376 9th Street.",
+    "link": ""
+  },
+  {
+    "date": "2026-06-26",
+    "time": "9:00 PM",
+    "artist": "Sugartone Brass Band",
+    "city": "Brooklyn, NY",
+    "venue": "Bar LunÀtico",
+    "country": "United States",
+    "details": "Age restrictions: No Minors. Address: 486 Halsey street.",
+    "link": ""
+  },
+  {
+    "date": "2026-06-27",
+    "time": "11:00 PM",
+    "artist": "Craig Handy and 2nd Line Smith",
+    "city": "New York, NY",
+    "venue": "Django",
+    "country": "United States",
+    "details": "Age restrictions: No Minors. Address: 2 Avenue of the Americas. Venue phone: 212-519-6649.",
+    "link": ""
+  },
+  {
+    "date": "2026-07-18",
+    "time": "11:00 PM",
+    "artist": "Craig Handy and 2nd Line Smith",
+    "city": "New York, NY",
+    "venue": "Django",
+    "country": "United States",
+    "details": "Age restrictions: No Minors. Address: 2 Avenue of the Americas. Venue phone: 212-519-6649.",
+    "link": ""
+  },
+  {
+    "date": "2026-08-29",
+    "time": "11:00 PM",
+    "artist": "Craig Handy and 2nd Line Smith",
+    "city": "New York, NY",
+    "venue": "Django",
+    "country": "United States",
+    "details": "Age restrictions: No Minors. Address: 2 Avenue of the Americas. Venue phone: 212-519-6649.",
+    "link": ""
+  }
+]
