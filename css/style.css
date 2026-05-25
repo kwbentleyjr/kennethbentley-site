@@ -110,58 +110,6 @@ footer h2 {
 a {
   color: #1f4b7a;
 }
-
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 16px;
-}
-
-.gallery-placeholder {
-  min-height: 150px;
-  border: 1px solid var(--border);
-  display: grid;
-  place-items: center;
-  background: #f7f7f7;
-  color: var(--muted);
-  font-style: italic;
-}
-
-@media (max-width: 600px) {
-  .site-title {
-    font-size: 1.7rem;
-  }
-
-nav a {
-  color: var(--accent);
-  margin-right: 18px;
-  text-decoration: none;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-}
-
-nav a:hover,
-nav a[aria-current="page"] {
-  text-decoration: underline;
-}
-}
-.home-intro {
-  display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
-  gap: 28px;
-  align-items: center;
-}
-
-.lead {
-  font-size: 1.25rem;
-  line-height: 1.5;
-}
-
-@media (max-width: 760px) {
-  .home-intro {
-    grid-template-columns: 1fr;
-  }
-}
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
