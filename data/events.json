@@ -49,4 +49,154 @@
     "details": "Age restrictions: No Minors. Address: 2 Avenue of the Americas. Venue phone: 212-519-6649.",
     "link": ""
   }
+  {
+  "date": "2026-05-26",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Nürnberg, Germany",
+  "venue": "Z-Bau",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://z-bau.com"
+},
+{
+  "date": "2026-05-27",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Dresden, Germany",
+  "venue": "Der Klub H42",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": ""
+},
+{
+  "date": "2026-05-28",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Jena, Germany",
+  "venue": "JG Stadtmitte",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://jg-stadtmitte.de"
+},
+{
+  "date": "2026-05-29",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Bonn, Germany",
+  "venue": "Harmonie",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://harmonie-bonn.de"
+},
+{
+  "date": "2026-05-30",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Worpswede, Germany",
+  "venue": "Music Hall",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://musichall-worpswede.eu"
+},
+{
+  "date": "2026-05-31",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Lutterbek, Germany",
+  "venue": "Lutterbeker",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://lutterbeker.de"
+},
+{
+  "date": "2026-06-02",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Hamburg, Germany",
+  "venue": "Fabrik",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://fabrik.de"
+},
+{
+  "date": "2026-06-03",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Heidelberg, Germany",
+  "venue": "Karlstorbahnhof",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://karlstorbahnhof.de"
+},
+{
+  "date": "2026-06-04",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Saarburg, Germany",
+  "venue": "Openair Kaserne",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": ""
+},
+{
+  "date": "2026-06-05",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Wiesbaden, Germany",
+  "venue": "Private Show",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": ""
+},
+{
+  "date": "2026-06-06",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Freiburg, Germany",
+  "venue": "Jazzhaus",
+  "country": "Germany",
+  "details": "Spring Tour 2026",
+  "link": "https://jazzhaus.de"
+},
+{
+  "date": "2026-06-07",
+  "time": "8:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Vachendorf, Germany",
+  "venue": "Hire-Park Ateliers",
+  "country": "Germany",
+  "details": "Studio concert",
+  "link": "https://hire-park.com"
+},
+{
+  "date": "2026-06-09",
+  "time": "7:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Prague, Czech Republic",
+  "venue": "Rock Café",
+  "country": "Czech Republic",
+  "details": "Spring Tour 2026",
+  "link": "https://rockcafe.cz"
+},
+{
+  "date": "2026-06-12",
+  "time": "9:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Blagoevgrad, Bulgaria",
+  "venue": "Crossing Jumaya Festival",
+  "country": "Bulgaria",
+  "details": "Open-air festival",
+  "link": ""
+},
+{
+  "date": "2026-06-14",
+  "time": "1:00 PM",
+  "artist": "Hazmat Modine",
+  "city": "Somova Village, Romania",
+  "venue": "Dichis’n’Blues Festival",
+  "country": "Romania",
+  "details": "Festival performance",
+  "link": ""
+}
 ]
