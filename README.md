@@ -37,3 +37,5 @@ python3 -m http.server 8000
 Then open:
 
 http://localhost:8000
+
+Test commit from iPad - May 2026
