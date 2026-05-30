@@ -54,7 +54,14 @@ nav a[aria-current="page"] {
 }
 
 main {
-  max-width: 760px;
+  max-width: none;
+}
+
+.home-intro {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 32px;
+  align-items: start;
 }
 
 .hero-image {
@@ -64,6 +71,11 @@ main {
   border: 1px solid var(--border);
   display: block;
 }
+
+@media (max-width: 700px) {
+  .home-intro {
+    grid-template-columns: 1fr;
+  }
 }
 
 .event-list {
