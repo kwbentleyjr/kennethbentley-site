@@ -59,8 +59,8 @@ main {
 
 .home-intro {
   display: grid;
-  grid-template-columns: 1.4fr 1fr;
-  gap: 32px;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 40px;
   align-items: start;
 }
 
