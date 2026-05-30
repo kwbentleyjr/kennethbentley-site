@@ -147,3 +147,8 @@ a {
   font-size: 0.95rem;
   color: var(--muted);
 }
+.lead {
+  font-size: 1.15rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
