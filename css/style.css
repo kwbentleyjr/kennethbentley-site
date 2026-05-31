@@ -173,3 +173,6 @@ a {
     grid-template-columns: 1fr;
   }
 }
+.bio-intro {
+  border: 10px solid red;
+}
