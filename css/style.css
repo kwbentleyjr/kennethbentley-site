@@ -171,3 +171,6 @@ a {
     grid-template-columns: 1fr;
   }
 }
+.contact-intro {
+  margin-bottom: 12px;
+}
