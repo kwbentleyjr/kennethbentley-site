@@ -214,3 +214,14 @@ a {
   margin-top: 8px;
   margin-bottom: 0;
 }
+.schedule-feature {
+  margin: 40px 0;
+}
+
+.schedule-feature img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
