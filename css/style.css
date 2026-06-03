@@ -174,3 +174,10 @@ a {
 .contact-intro {
   margin-bottom: 12px;
 }
+.site-banner {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 20px;
+}
