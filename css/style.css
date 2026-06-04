@@ -219,15 +219,17 @@ a {
 }
 
 .schedule-feature img {
-  width: 100%;
+  width: 50%;
+  max-width: 450px;
   height: auto;
   display: block;
+  margin: 0 auto;
   border-radius: 10px;
   border: 1px solid var(--border);
 }
 .schedule-feature figcaption {
   margin-top: 8px;
-  text-align: right;
+  text-align: center;
   font-size: 0.9rem;
   color: var(--muted);
   font-style: italic;
