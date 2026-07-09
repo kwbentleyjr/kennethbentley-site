@@ -228,5 +228,25 @@
     "country": "United States",
     "details": "Age restrictions: No Minors. Address: 2 Avenue of the Americas. Venue phone: 212-519-6649.",
     "link": ""
+  },
+  {
+    "date": "2026-08-04",
+    "time": "9:00 PM",
+    "artist": "Slavic Soul Party!",
+    "city": "Brooklyn, NY",
+    "venue": "Barbès",
+    "country": "United States",
+    "details": "Admission: $20. Age restrictions: No Minors. Address: 376 9th Street.",
+    "link": ""
+  },
+  {
+    "date": "2026-08-18",
+    "time": "9:00 PM",
+    "artist": "Slavic Soul Party!",
+    "city": "Brooklyn, NY",
+    "venue": "Barbès",
+    "country": "United States",
+    "details": "Admission: $20. Age restrictions: No Minors. Address: 376 9th Street.",
+    "link": ""
   }
 ]
