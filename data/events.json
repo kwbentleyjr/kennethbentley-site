@@ -288,5 +288,35 @@
     "country": "United States",
     "details": "Age restrictions: No Minors. Address: 376 9th Street. Admission: $20.",
     "link": ""
+  },
+  {
+    "date": "2026-09-15",
+    "time": "9:00 PM",
+    "artist": "Slavic Soul Party!",
+    "city": "Brooklyn, NY",
+    "venue": "Barbès",
+    "country": "USA",
+    "details": "Age restrictions: No Minors. Address: 376 9th Street. Admission: $20.",
+    "link": ""
+  },
+  {
+    "date": "2026-09-18",
+    "time": "6:00 PM",
+    "artist": "Hazmat Modine",
+    "city": "Brooklyn, NY",
+    "venue": "Operation Gig: Porch Concert Series",
+    "country": "USA",
+    "details": "All Ages. Address: Ditmas Park-Check the website link for directions. Admission: Free.",
+    "link": "https://www.operationgig.org/shows"
+  },
+  {
+    "date": "2026-09-19",
+    "time": "7:00 PM",
+    "artist": "Hazmat Modine",
+    "city": "New York, NY",
+    "venue": "Terra Blues",
+    "country": "USA",
+    "details": "Age restrictions: No Minors. Address: 149 Bleecker Street. Admission: $20.",
+    "link": ""
   }
 ]
